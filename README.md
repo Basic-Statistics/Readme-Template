@@ -123,7 +123,7 @@ https://www.facebook.com/alimran.jahidhasan
 
 ### image sytax
 
-[profile](./Image/Al Imran Jahid Hasasn.jpg)
+<!-- ![profile](./Image/Al Imran Jahid Hasasn.jpg) -->
 <img src="./Image/Al Imran Jahid Hasan.jpg" width="400" title="my image"/>
 😊
 
