@@ -104,15 +104,15 @@ console.log("hello");
 
 ### automatic link
 
-http://www.studywithanis.com
+https://www.facebook.com/alimran.jahidhasan
 
 ### disable link
 
-`http://www.studywithanis.com`
+`(https://www.facebook.com/alimran.jahidhasan)`
 
 ### markdown link sytax
 
-[studywithanis](http://www.studywithanis.com)
+[Facebook](https://www.facebook.com/alimran.jahidhasan)
 
 ### markdown link sytax
 
@@ -124,7 +124,7 @@ http://www.studywithanis.com
 ### image sytax
 
 <!-- ![profile](./images/me.jpg) -->
-<img src="./Image/me.jpg" width="400" title="profile image"/>
+<img src="./Image/me.jpg" width="400" title="my image"/>
 😊
 
 <br/>
@@ -133,8 +133,8 @@ http://www.studywithanis.com
 
 | Name         | Email                  |
 | ------------ | ---------------------- |
-| basic Statistics | Text is here           |
-| basic Statistics | basicstatistics21@gmail.com |
+| Main Email | imranzahidhasan@gmail.com           |
+| Practice Email | basicstatistics21@gmail.com |
 | basic Statistics | Text is here           |
 
 <!-- all link is here -->
