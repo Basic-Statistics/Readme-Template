@@ -139,6 +139,6 @@ http://www.studywithanis.com
 
 <!-- all link is here -->
 
-[Email-link]: basicstatistics21@gmail.com
+[Email-link]: https://mail.google.com/mail/basicstatistics21@gmail.com
 [Facebook-link]: https://www.facebook.com/alimran.jahidhasan
 
