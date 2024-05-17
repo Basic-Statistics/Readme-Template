@@ -124,7 +124,7 @@ http://www.studywithanis.com
 ### image sytax
 
 <!-- ![profile](./images/me.jpg) -->
-<img src="./images/me.JPG" width="400" title="profile image"/>
+<img src="./Image/me.JPG" width="400" title="profile image"/>
 😊
 
 <br/>
